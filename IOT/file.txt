@@ -1,0 +1,1 @@
+b'Le temps \xc3\xa0 Gab\xc3\xa8s est peu nuageux. Actuellement il fait 17\xc2\xb0C.\nla temp\xc3\xa9rature prev\xc3\xa9u pour aujourdhui est 17\xc2\xb0C, avec une humidit\xc3\xa9 de 42%.\n'
